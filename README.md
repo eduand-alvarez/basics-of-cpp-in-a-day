@@ -1,19 +1,19 @@
-# Basics of C++ in a Day
+# C++ Learning Repository
 
-A one day learning journey through C++ programming, covering fundamental concepts to more advanced topics. Below are the lessons and key concepts explored throughout this journey.
+This repository documents my learning journey through C++ programming, covering fundamental concepts to more advanced topics. Below are the lessons and key concepts explored throughout this journey.
 
 ## Table of Contents
 
-1. [Introduction to C++ Basics](#introduction-to-c-basics)
-2. [Variables and Data Types](#variables-and-data-types)
-3. [Control Flow: If, Else, and Switch](#control-flow-if-else-and-switch)
-4. [Loops in C++: For, While, and Do-While](#loops-in-c-for-while-and-do-while)
-5. [Functions in C++](#functions-in-c)
-6. [Arrays in C++](#arrays-in-c)
-7. [Multi-Dimensional Arrays](#multi-dimensional-arrays)
-8. [Pointers in C++](#pointers-in-c)
-9. [Dynamic Memory Allocation](#dynamic-memory-allocation)
-10. [Relationship Between Arrays and Pointers](#relationship-between-arrays-and-pointers)
+1. [Introduction to C++ Basics](#1-introduction-to-c-basics)
+2. [Variables and Data Types](#2-variables-and-data-types)
+3. [Control Flow: If, Else, and Switch](#3-control-flow-if-else-and-switch)
+4. [Loops in C++: For, While, and Do-While](#4-loops-in-c-for-while-and-do-while)
+5. [Functions in C++](#5-functions-in-c)
+6. [Arrays in C++](#6-arrays-in-c)
+7. [Multi-Dimensional Arrays](#7-multi-dimensional-arrays)
+8. [Pointers in C++](#8-pointers-in-c)
+9. [Dynamic Memory Allocation](#9-dynamic-memory-allocation)
+10. [Relationship Between Arrays and Pointers](#10-relationship-between-arrays-and-pointers)
 
 ---
 
@@ -162,5 +162,3 @@ Feel free to explore the code examples and exercises in this repository to gain 
 ## Citation
 
 This content was created and authored by **Eduardo Alvarez** as part of a personal learning journey in C++. It is provided here for educational purposes and is freely available under an open-source license for further use and modification.
-
-
