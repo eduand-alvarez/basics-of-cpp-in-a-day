@@ -1,0 +1,2 @@
+// Write a program that dynamically allocates memory for an array based on the size input by the user. 
+// Populate the array with values (e.g., squares of indices) and print the array. Don’t forget to free the memory at the end.

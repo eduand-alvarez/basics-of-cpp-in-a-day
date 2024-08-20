@@ -1,0 +1,2 @@
+// Write a program that dynamically allocates memory for an integer, takes a value from the user, and stores that value in 
+// the dynamically allocated memory. Then, print the value and free the memory.

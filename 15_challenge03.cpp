@@ -1,0 +1,1 @@
+// Write a program that creates a 2x3 matrix and asks the user to input values for the matrix. Then, print the matrix.
