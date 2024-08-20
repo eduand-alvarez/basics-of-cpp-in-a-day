@@ -1,6 +1,6 @@
-# C++ Learning Repository
+# Basics of C++ in a Day
 
-This repository documents my learning journey through C++ programming, covering fundamental concepts to more advanced topics. Below are the lessons and key concepts explored throughout this journey.
+A one day learning journey through C++ programming, covering fundamental concepts to more advanced topics. Below are the lessons and key concepts explored throughout this journey.
 
 ## Table of Contents
 
